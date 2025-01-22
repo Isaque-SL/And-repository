@@ -1,4 +1,8 @@
 def hello_world(mensagem):
+    mensagem = str(mensagem)
     print(mensagem)
-print = "Hello World!"
-hello_world(print)
+
+Print = "Hello World!"
+hello_world(Print)
+#hello_world(print)
+bdfghfhfgf
